@@ -383,5 +383,6 @@
   <project path="system/vold" name="platform_system_vold" groups="pdk" remote="sp" revision="kk-4.4" />
   <project path="system/qcom" name="android_system_qcom" groups="pdk" remote="cm" revision="cm-11.0" />
   <project path="tools/external/fat32lib" name="platform/tools/external/fat32lib" groups="tools" />
+  <project path="vendor/aosp" name="platform_vendor_aosp" remote="sp" revision="kk-4.4" />
   <project path="vendor/samsung" name="platform_vendor_samsung" remote="sp" revision="kk-4.4" />
 </manifest>
